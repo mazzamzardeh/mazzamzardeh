@@ -1,4 +1,7 @@
 ## Hi there 👋
+### i love football
+[markdown guide](https://www.markdownguide.org/)
+[github profile guide](https://www.markdownguide.org/)
 
 <!--
 **mazzamzardeh/mazzamzardeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
